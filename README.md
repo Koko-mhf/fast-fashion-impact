@@ -1,4 +1,4 @@
-# Modélisation de l'Impact Écologique de la Fast Fashion
+# Modélisation de l'Impact Écologique de la Fast Fashion [EN COURS...]
 
 ## Contexte et Vision du Projet
 Ce projet s'inscrit dans une démarche visant à allier l'ingénierie des données à un enjeu à forte contribution : l'impact environnemental de l'industrie de la mode et de la Fast Fashion. 
@@ -24,12 +24,3 @@ L'approche est strictement pragmatique et analytique. Il s'agit d'automatiser le
 * **Visualisation :** Matplotlib, Seaborn
 * **Environnement :** VS Code
 
-## Arborescence du Projet
-
-```text
-├── data/               # Données brutes et structurées (fichiers exclus du suivi Git)
-├── notebooks/          # Scripts d'analyse exploratoire et prototypage
-├── src/                # Scripts Python (pipeline de nettoyage, entraînement des modèles)
-├── models/             # Sauvegarde des modèles entraînés
-├── requirements.txt    # Liste des dépendances environnementales
-└── README.md           # Documentation technique
